@@ -2,35 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://tingbob.github.io/2020/11/06/20201106silver02/</loc>
+    <loc>http://tingbob.github.io/2020/11/09/20201109silver01/</loc>
     
-    <lastmod>2020-11-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://tingbob.github.io/2020/11/03/%E6%8A%95%E8%B5%84%E5%BF%83%E5%BE%97/</loc>
-    
-    <lastmod>2020-11-06</lastmod>
+    <lastmod>2020-11-09</lastmod>
     
   </url>
   
   <url>
     <loc>http://tingbob.github.io/2020/11/04/20201104silver01/</loc>
     
-    <lastmod>2020-11-06</lastmod>
+    <lastmod>2020-11-09</lastmod>
     
   </url>
   
   <url>
     <loc>http://tingbob.github.io/2020/11/05/20201105silver01/</loc>
     
-    <lastmod>2020-11-06</lastmod>
+    <lastmod>2020-11-09</lastmod>
     
   </url>
   
   <url>
     <loc>http://tingbob.github.io/2020/11/06/20201106silver01/</loc>
+    
+    <lastmod>2020-11-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tingbob.github.io/2020/11/06/20201106silver02/</loc>
+    
+    <lastmod>2020-11-09</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://tingbob.github.io/2020/11/03/%E6%8A%95%E8%B5%84%E5%BF%83%E5%BE%97/</loc>
     
     <lastmod>2020-11-06</lastmod>
     
@@ -67,7 +74,7 @@
 
   <url>
     <loc>http://tingbob.github.io/</loc>
-    <lastmod>2020-11-06</lastmod>
+    <lastmod>2020-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -75,14 +82,14 @@
   
   <url>
     <loc>http://tingbob.github.io/tags/AGTD/</loc>
-    <lastmod>2020-11-06</lastmod>
+    <lastmod>2020-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://tingbob.github.io/tags/sample/</loc>
-    <lastmod>2020-11-06</lastmod>
+    <lastmod>2020-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -91,7 +98,7 @@
   
   <url>
     <loc>http://tingbob.github.io/categories/%E6%8A%95%E8%B5%84%E7%9B%B8%E5%85%B3/</loc>
-    <lastmod>2020-11-06</lastmod>
+    <lastmod>2020-11-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
