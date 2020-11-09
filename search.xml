@@ -13,22 +13,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20201105AGTD交易笔记</title>
-    <url>/2020/11/05/20201105silver01/</url>
-    <content><![CDATA[<ol>
-<li>1H震荡区间已经出来了，如图所示，在5010-5120之间。从图上看，是一个下跌后的震荡。所以是否会是一个下跌中继？</li>
-<li>有个问题是之前有个1H的放量下长影，说明抄底明显，行情会往上走一波。</li>
-<li>在4904还有个1H的缺口，什么时候去补？<br>1与2形成一个矛盾，3只能作为一个参考，而不能作为一个做单的必要条件。<br>所以策略还是跌破震荡区间止损多单？并反手做空？目标4900下方止盈。等待下次震荡区间。<br><img src="/2020/11/05/20201105silver01/1604539055739.jpg" alt="1"></li>
-</ol>
-]]></content>
-      <categories>
-        <category>投资相关</category>
-      </categories>
-      <tags>
-        <tag>AGTD</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20201106AGTD交易笔记</title>
     <url>/2020/11/06/20201106silver01/</url>
     <content><![CDATA[<ol>
@@ -64,6 +48,41 @@
       </tags>
   </entry>
   <entry>
+    <title>20201105AGTD交易笔记</title>
+    <url>/2020/11/05/20201105silver01/</url>
+    <content><![CDATA[<ol>
+<li>1H震荡区间已经出来了，如图所示，在5010-5120之间。从图上看，是一个下跌后的震荡。所以是否会是一个下跌中继？</li>
+<li>有个问题是之前有个1H的放量下长影，说明抄底明显，行情会往上走一波。</li>
+<li>在4904还有个1H的缺口，什么时候去补？<br>1与2形成一个矛盾，3只能作为一个参考，而不能作为一个做单的必要条件。<br>所以策略还是跌破震荡区间止损多单？并反手做空？目标4900下方止盈。等待下次震荡区间。<br><img src="/2020/11/05/20201105silver01/1604539055739.jpg" alt="1"></li>
+</ol>
+]]></content>
+      <categories>
+        <category>投资相关</category>
+      </categories>
+      <tags>
+        <tag>AGTD</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20201109AGTD交易笔记</title>
+    <url>/2020/11/09/20201109silver01/</url>
+    <content><![CDATA[<p>再次update:<br>收盘跌到5307，我晕，很疑惑网上一些人看风险，他们是怎么知道什么区域风险很高的？这难道就是经验吗？<br>虽然我知道到什么点位可能会有来回拉锯的震荡，但是向上向下好像都不是确定的事情。稍微感觉有点挫败。<br>如果按照我的分析论，行情走到哪里没有什么所谓的风险，只有策略与持仓上的风险。这么一想，好像又有点信心了。<br>总之还是得再耐心一点，着急没用的。</p>
+<p>udpate:<br>在5380补了多单一手。统一止损在5240。<br>5300不等了。可能到，也可能不到，依照我这沉不住气的性格，挂单两次都没买进去。这次只能强行上车一手头寸。</p>
+<ol>
+<li>震荡区间在5320-5420之间。但是有个判断是，这波行情是不是进入到了一个单边加速行情？为了利润最大化，始终保持9成仓位。并且不断上移止损位。</li>
+<li>如果不是单边加速，那么这个震荡区间如果跌破，应该首先会去回补跳空。5301，5148，极端情况会回补到4904的跳空。</li>
+<li>所以一旦5240被止损，有两个选择，一个是按照多头思路，静等新的震荡区间形成上车，绝对不能在下跌中入手。<br>一个是反手入空，止损在5320左右。<br>不跌破5180，我认为还是在多头趋势。跌破了多头趋势算是失败。以此为依据，第二个选择看起来风险比较高。因为在多头趋势中做空，风险不是一般的高，一个单边快速拉涨趋势基本让你game over。上次尝试做空的教训就在眼前，不能再冲动了。<br><img src="/2020/11/09/20201109silver01/1604902965562.jpg" alt="1"></li>
+</ol>
+<p>origin:<br>多单继续止损上移至5240，同时设置在5300补多单一手。</p>
+]]></content>
+      <categories>
+        <category>投资相关</category>
+      </categories>
+      <tags>
+        <tag>AGTD</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/10/30/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -82,24 +101,6 @@
 ]]></content>
       <tags>
         <tag>sample</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20201109AGTD交易笔记</title>
-    <url>/2020/11/09/20201109silver01/</url>
-    <content><![CDATA[<p>udpate:<br>在5380补了多单一手。统一止损在5240。<br>5300不等了。可能到，也可能不到，依照我这沉不住气的性格，挂单两次都没买进去。这次只能强行上车一手头寸。</p>
-<ol>
-<li>震荡区间在5320-5420之间。但是有个判断是，这波行情是不是进入到了一个单边加速行情？为了利润最大化，始终保持9成仓位。并且不断上移止损位。</li>
-<li>如果不是单边加速，那么这个震荡区间如果跌破，应该首先会去回补跳空。5301，5148，极端情况会回补到4904的跳空。</li>
-<li>所以一旦5240被止损，有两个选择，一个是按照多头思路，静等新的震荡区间形成上车，绝对不能在下跌中入手。<br>一个是反手入空，止损在5320左右。<br>不跌破5180，我认为还是在多头趋势。跌破了多头趋势算是失败。以此为依据，第二个选择看起来风险比较高。因为在多头趋势中做空，风险不是一般的高，一个单边快速拉涨趋势基本让你game over。上次尝试做空的教训就在眼前，不能再冲动了。<br><img src="/2020/11/09/20201109silver01/1604902965562.jpg" alt="1"></li>
-</ol>
-<p>origin:<br>多单继续止损上移至5240，同时设置在5300补多单一手。</p>
-]]></content>
-      <categories>
-        <category>投资相关</category>
-      </categories>
-      <tags>
-        <tag>AGTD</tag>
       </tags>
   </entry>
   <entry>
